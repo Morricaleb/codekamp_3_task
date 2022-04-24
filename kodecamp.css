@@ -202,14 +202,14 @@ body{
     padding-bottom: 8%;
 }
 .contact-bg{
-    background-image: url(/images/image\ 2.jpeg);
+    background-image: url(./images/image\ 2.jpeg);
     background-size: cover;
     background-position: center;
     width: 50%;
     height: 40vh;
 }
 .contact-bg2{
-    background-image: url(/images/eng\ image.png);
+    background-image: url(./images/eng\ image.png);
     background-size: cover;
     background-position: center;
     width: 50%;
